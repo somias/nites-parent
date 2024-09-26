@@ -1,0 +1,3 @@
+[submodule "nites-parent/nites-react-vite"]
+	path = nites-parent/nites-react-vite
+	url = https://github.com/somias/nites-react-vite
