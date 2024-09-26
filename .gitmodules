@@ -1,0 +1,6 @@
+[submodule "apps/nites-react-vite"]
+	path = apps/nites-react-vite
+	url = https://github.com/somias/nites-react-vite
+[submodule "apps/nites-remix"]
+	path = apps/nites-remix
+	url = https://github.com/somias/nites-remix
